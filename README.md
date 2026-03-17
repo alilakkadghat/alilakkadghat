@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++  
+- 💻 &nbsp; Java | python  
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🛢 &nbsp; MySQL | Firebase 
 - 🔧 &nbsp; Visual Studio code | Git
