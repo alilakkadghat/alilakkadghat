@@ -5,10 +5,9 @@
 
 - 🔭 &nbsp; I’m currently learning DSA and Data Analytics
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Artificial Intelligence, Computer Programming and Mathematics.
-- 💼 &nbsp; front-end web developer and Data Analyst.
+- 🎓 &nbsp; Hands-on with **LLMs, LangChain, LangGraph, Transformers, and agentic workflows**
 - 🌱 &nbsp; Enthusiast in Data Science and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ✍️ &nbsp; Interested in **AI infrastructure, system design, developer tools, and trustworthy AI systems**
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 ## 🛠️ Tech Arsenal
@@ -49,23 +48,104 @@
 </div>
 
 ---
+## 🧩 Featured Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3>MerchID</h3>
+      <p><b>QR-powered digital identity platform</b></p>
+      <p>
+        Full-stack digital identity platform for ACM committee members with
+        permanent QR profiles, role-based administration, CSV imports, and
+        real-time member management.
+      </p>
+      <p>
+        <b>Stack:</b> Next.js, FastAPI, PostgreSQL, Cloudinary, TypeScript
+      </p>
+    </td>
+    <td width="50%">
+      <h3>CareerOrbit</h3>
+      <p><b>AI-powered placement intelligence platform</b></p>
+      <p>
+        AI-driven career platform that analyzes student profiles, skills, and
+        opportunities to provide personalized placement insights and career
+        recommendations.
+      </p>
+      <p>
+        <b>Stack:</b> React, Node.js, PostgreSQL, Gemini API, Three.js, Docker
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>WhatsApp RAG Bot</h3>
+      <p><b>AI-powered conversational knowledge assistant</b></p>
+      <p>
+        Retrieval-augmented WhatsApp chatbot that retrieves relevant information
+        from a knowledge base and generates grounded responses through an
+        automated conversational interface.
+      </p>
+      <p>
+        <b>Stack:</b> Python, RAG, LLMs, WhatsApp API, Vector Search
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Spider-Man 3D WebVerse</h3>
+      <p><b>Interactive 3D multiverse web experience</b></p>
+      <p>
+        Immersive Spider-Man themed 3D web experience featuring interactive
+        environments, animations, and multiverse-inspired exploration directly
+        in the browser.
+      </p>
+      <p>
+        <b>Stack:</b> Three.js, WebGL, Vite, JavaScript
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Walmart Data Engineering Pipeline</h3>
+      <p><b>End-to-end analytics engineering platform</b></p>
+      <p>
+        Production-style data pipeline implementing a Medallion architecture
+        with scalable ingestion, transformation, historical tracking, workflow
+        orchestration, and BI analytics.
+      </p>
+      <p>
+        <b>Stack:</b> Databricks, DBT, Airflow, SQL, Power BI, SCD Type 1 &amp; 2
+      </p>
+    </td>
+    <td width="50%">
+      <h3></h3>
+      <p><b></b></p>
+      <p></p>
+      <p></p>
+    </td>
+  </tr>
+</table>
+
+
+---
 ## 📊 Developer Metrics & GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alilakkadghat&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ali's Github Stats">
 
-</br>
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=alilakkadghat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86401"
+  />
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com?user=alilakkadghat&theme=tokyonight&hide_border=true&mode=daily&cache_seconds=86401"
+  />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alilakkadghat&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/alilakkadghat/github-readme-stats)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alilakkadghat&theme=tokyo-night&hide_border=true"
+  />
+</p>
 
-### 🏆 GitHub Legends
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alilakkadghat&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=6&rank=S,AAA,AA,A,B" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
-</div>
 
 ---
 
